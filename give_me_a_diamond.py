@@ -1,3 +1,8 @@
+#Kunal Gautam
+#Codewars : @Kunalpod
+#Problem name: Give me a Diamond
+#Problem level: 6 kyu
+
 def diamond(n):
     if n%2==0 or n<1:
         return null
