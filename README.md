@@ -1,2 +1,2 @@
 # codewars
-Contains functions that are answers to questions on Codewars
+Solutions to Katas on Codewars
