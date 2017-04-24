@@ -4,8 +4,6 @@
 #Problem level: 4 kyu
 
 def format_duration(seconds):
-    if not seconds:
-        return "now"
     y = d = h = m = s = 0
     if seconds<60:
         s = seconds
