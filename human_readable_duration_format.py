@@ -115,4 +115,4 @@ def format_duration(seconds):
                     if s!=0:
                         return str(s)+" second"+('s' if s>1 else '')
                     else:
-                        return None 
+                        return 'now' 
