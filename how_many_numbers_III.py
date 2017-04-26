@@ -1,3 +1,8 @@
+#Kunal Gautam
+#Codewars : @Kunalpod
+#Problem name: How many numbers III
+#Problem level: 4 kyu
+
 #Not good enough
 #fml
 
