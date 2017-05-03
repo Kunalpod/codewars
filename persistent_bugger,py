@@ -1,0 +1,12 @@
+#Kunal Gautam
+#Codewars : @Kunalpod
+#Problem name: Persistent Bugger
+#Problem level: 6 kyu
+
+from operator import mul
+from functools import reduce
+def persistence(n, count=0):
+    while n//10!=0:
+        n = reduce(mul, [int(x) for x in str(n)],1)
+        count+=1
+    return count  
