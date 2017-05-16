@@ -1,7 +1,7 @@
 #Kunal Gautam
 #Codewars : @Kunalpod
 #Problem name: Simple Pig Latin
-#Problem level: 6 kyu
+#Problem level: 5 kyu
 
 def pig_it(text):
     text1 = ' '.join([x[1:]+x[0]+'ay' for x in text.split()])
