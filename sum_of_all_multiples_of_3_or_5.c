@@ -1,7 +1,7 @@
-#Kunal Gautam
-#Codewars : @Kunalpod
-#Problem name: Sum of all the multiples of 3 or 5
-#Problem level: 7 kyu
+//Kunal Gautam
+//Codewars : @Kunalpod
+//Problem name: Sum of all the multiples of 3 or 5
+//Problem level: 7 kyu
 
 int findSum (int n){
   int count = 0;
